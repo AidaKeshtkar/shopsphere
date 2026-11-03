@@ -1,0 +1,20 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  background-color: #fff;
+  border-top: 1px solid #eaeaea;
+  margin-top: 20px;
+}
+.theme-buttons {
+  display: flex;
+  gap: 10px;
+}
+.theme-btn {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+}

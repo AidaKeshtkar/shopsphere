@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Smart Watch",
+    "image": "profile.webp",
+    "price": "99$"
+  },
+  {
+    "id": "2",
+    "name": "Wireless Headphones",
+    "image": "profile.webp",
+    "price": "149$"
+  },
+  {
+    "id": "3",
+    "name": "Running Shoes",
+    "image": "profile.webp",
+    "price": "79$"
+  },
+  {
+    "id": "4",
+    "name": "Leather Backpack",
+    "image": "profile.webp",
+    "price": "120$"
+  }
+]

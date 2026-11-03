@@ -1,0 +1,9 @@
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.error-text {
+  color: red;
+  font-size: 12px;
+}

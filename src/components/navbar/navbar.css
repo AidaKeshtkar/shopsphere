@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  gap: 15px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.navbar li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+}
+.navbar li a:hover {
+  color: #007bff;
+}

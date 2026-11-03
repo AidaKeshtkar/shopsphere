@@ -1,0 +1,24 @@
+.blog-post {
+  padding: 15px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #eee;
+  animation: fadeIn 0.5s ease-in-out;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.pagination {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.pagination button {
+  padding: 5px 10px;
+  font-size: 14px;
+}
